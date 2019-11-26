@@ -7,15 +7,7 @@
 @Todo   : 数据节点
 """
 
-import logging
-
-
 __all__ = ["DataNode"]
-
-_log_format = "%(asctime)s [ %(levelname)s ] %(process)d(%(thread)d)-%(filename)s(line:%(lineno)s) | %(message)s"
-_date_format = "%Y-%m-%d(%A) %H:%M:%S(%Z)"
-logging.basicConfig(level=logging.DEBUG, format=_log_format, datefmt=_date_format)
-logger = logging.getLogger(__name__)
 
 
 class DataNode(object):
