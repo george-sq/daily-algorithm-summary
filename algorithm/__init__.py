@@ -3,6 +3,6 @@
 """
 @File   : __init__.py.py
 @Author : nlpqs-George
-@Time   : 2019/11/26 22:08
-@Todo   : 数据结构模块
+@Time   : 2019/11/26 22:41
+@Todo   : 算法模块
 """
