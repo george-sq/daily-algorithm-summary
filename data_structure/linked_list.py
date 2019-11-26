@@ -17,6 +17,13 @@ logging.basicConfig(level=logging.DEBUG, format=_log_format, datefmt=_date_forma
 logger = logging.getLogger(__name__)
 
 
+# 普通单链表
+
+# 循环列表
+
+# 双向链表
+
+
 def app():
     pass
 
